@@ -1,1 +1,1 @@
-<?php include_once("flames.html"); ?>
+<?php include_once("blackjack.html"); ?>
